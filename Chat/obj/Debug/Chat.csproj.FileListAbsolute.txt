@@ -1,0 +1,20 @@
+D:\STEP\NetWorking\Chat\Chat\bin\Debug\Chat.exe.config
+D:\STEP\NetWorking\Chat\Chat\bin\Debug\Chat.exe
+D:\STEP\NetWorking\Chat\Chat\bin\Debug\Chat.pdb
+D:\STEP\NetWorking\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+D:\STEP\NetWorking\Chat\Chat\obj\Debug\Chat.Form1.resources
+D:\STEP\NetWorking\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\STEP\NetWorking\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+D:\STEP\NetWorking\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\STEP\NetWorking\Chat\Chat\obj\Debug\Chat.exe
+D:\STEP\NetWorking\Chat\Chat\obj\Debug\Chat.pdb
+D:\Visual studio projects\NP\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Visual studio projects\NP\Chat\Chat\bin\Debug\Chat.exe
+D:\Visual studio projects\NP\Chat\Chat\bin\Debug\Chat.pdb
+D:\Visual studio projects\NP\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+D:\Visual studio projects\NP\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Visual studio projects\NP\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+D:\Visual studio projects\NP\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\NP\Chat\Chat\obj\Debug\Chat.exe
+D:\Visual studio projects\NP\Chat\Chat\obj\Debug\Chat.pdb
+D:\Visual studio projects\NP\Chat\Chat\obj\Debug\Chat.fMain.resources

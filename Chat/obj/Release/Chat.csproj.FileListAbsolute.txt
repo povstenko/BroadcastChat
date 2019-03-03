@@ -1,0 +1,9 @@
+D:\Visual studio projects\NP\Chat\Chat\bin\Release\Chat.exe.config
+D:\Visual studio projects\NP\Chat\Chat\bin\Release\Chat.exe
+D:\Visual studio projects\NP\Chat\Chat\bin\Release\Chat.pdb
+D:\Visual studio projects\NP\Chat\Chat\obj\Release\Chat.fMain.resources
+D:\Visual studio projects\NP\Chat\Chat\obj\Release\Chat.Properties.Resources.resources
+D:\Visual studio projects\NP\Chat\Chat\obj\Release\Chat.csproj.GenerateResource.cache
+D:\Visual studio projects\NP\Chat\Chat\obj\Release\Chat.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\NP\Chat\Chat\obj\Release\Chat.exe
+D:\Visual studio projects\NP\Chat\Chat\obj\Release\Chat.pdb
